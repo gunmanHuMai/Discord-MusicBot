@@ -19,7 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/SudhanPlayz/Discord-MusicBot.git"
   },
-  "engines": { "node": ">=20.0.0 <21.0.0" }
+  "engines": {
+    "node": ">=20.0.0 <21.0.0"
+  },
   "keywords": [
     "discord",
     "discord-bot",
