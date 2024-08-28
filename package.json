@@ -38,7 +38,7 @@
     "url": "https://github.com/SudhanPlayz/Discord-MusicBot/issues"
   },
   "homepage": "https://github.com/SudhanPlayz/Discord-MusicBot#readme",
-  "dependencies": {
+    "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
     "axios": "^0.27.0",
